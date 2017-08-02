@@ -1,16 +1,41 @@
-Transmitting Network Data Using Volley
+STANDART REQUEST
 
 
-1. Introduction to Volley
+1. Make a Json Object Request
 
 
-2. Create a Simple Request
+2. Make a Json Array Request
 
 
-3. Setting up a RequestQueue
+student.json
 
 
-4. Use a Singleton Pattern
-
-
-5. Request an Image
+{
+	students:[
+		{
+			name: "Jessica",
+			surname: "Rayna",
+			age: "22"
+		},
+		{
+			name: "Rebecca",
+			surname: "Sylvia",
+			age: "23"
+		},
+		{
+			name: "Tyler",
+			surname: "Wendy",
+			age: "25"
+		},
+		{
+			name: "Yolanda",
+			surname: "Zoey",
+			age: "22"
+		},
+		{
+			name: "Caleb",
+			surname: "Bo",
+			age: "24"
+		}
+	]
+}
