@@ -1,1 +1,3 @@
-Android JSON parsing using GSON and GSON Annotations Example ( JsonSerializer <T> and JsonDeserializer <T> )
+Example of using the android StartActivityForResult() method
+
+method: ' public void startActivityForResult (Intent intent, int requestCode)  '
